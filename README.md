@@ -3,6 +3,8 @@
 ## Task
  The goal of this project is to implement the Min-Max algorithm that would make a smart AI agent.
 
+![](screenshots/screenshots.png)
+
 ## Input
 At the start of the program, it asks the user if it wants be X or O and then asks if he/she wants to play first.
 
